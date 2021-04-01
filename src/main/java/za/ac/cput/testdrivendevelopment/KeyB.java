@@ -9,6 +9,6 @@ package za.ac.cput.testdrivendevelopment;
  *
  * @author M. Nur
  */
-public class App {
+public class KeyB {
     
 }
